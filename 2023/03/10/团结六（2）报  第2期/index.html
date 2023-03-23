@@ -54,9 +54,17 @@
 <body>
   <div id="app">
     
+      <canvas class="fireworks"></canvas>
+      <style>
+        .fireworks {
+          position: fixed;
+          left: 0;
+          top: 0;
+          z-index: 99999;
+          pointer-events: none;
+        }
+      </style>
       
-      <canvas width="1777" height="841"
-        style="position: fixed; left: 0px; top: 0px; z-index: 99999; pointer-events: none;"></canvas>
       
     <main class="content on">
       <section class="outer">
@@ -254,7 +262,7 @@ vmuonline@126.com
       <li>
         Copyrights &copy;
         2023
-        <i class="ri-heart-fill heart_icon"></i> 黄海路小学2017级2班全体师生
+        <i class="ri-heart-fill heart_icon"></i> 黄海路小学2017级2班全体师生 		网页版本V3.6.0
       </li>
     </ul>
     <ul>
@@ -317,6 +325,10 @@ vmuonline@126.com
     
     <li class="nav-item">
       <a class="nav-item-link" href="/archives">归档</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/2023/03/01/about/">关于</a>
     </li>
     
   </ul>
@@ -516,10 +528,12 @@ vmuonline@126.com
 
 <!-- ClickBoom1 -->
 
+<script src="https://cdn.staticfile.org/animejs/3.2.1/anime.min.js"></script>
+
+<script src="/js/clickBoom1.js"></script>
+ 
 <!-- ClickBoom2 -->
- 
-<script src="/js/clickBoom2.js"></script>
- 
+
 <!-- CodeCopy -->
  
 <link rel="stylesheet" href="/css/clipboard.css">

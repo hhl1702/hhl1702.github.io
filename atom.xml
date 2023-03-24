@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>黄海路小学六（2）班</title>
+  <title>黄海路小学六2班</title>
   <icon>https://hhl1702.github.io/icon.png</icon>
   <subtitle>一个团结的班集体</subtitle>
   <link href="https://hhl1702.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://hhl1702.github.io/</id>
   
   <author>
-    <name>黄海路小学2017级2班全体师生 		网页版本V3.6.0</name>
+    <name>黄海路小学2017级2班全体师生 		网页版本(不包括背景和文档)V3.7.0</name>
     
   </author>
   
@@ -121,7 +121,7 @@
     <link href="https://hhl1702.github.io/2023/01/01/about/"/>
     <id>https://hhl1702.github.io/2023/01/01/about/</id>
     <published>2022-12-31T16:00:00.000Z</published>
-    <updated>2023-03-23T04:18:06.677Z</updated>
+    <updated>2023-03-24T05:03:46.747Z</updated>
     
     
       
@@ -129,6 +129,7 @@
         
         
     <summary type="html">&lt;p&gt;此网站是黄海路小学2017级2班的网站，有发布班报、宣传等作用。&lt;br&gt;这是我们共同的网站，欢迎踊跃投稿！&lt;br&gt;（此网站成立于2023年3月7日）&lt;/p&gt;
+&lt;p&gt;黄海路小学2017级2班是一个团结的班集体，由68名同学组成，拿过多个校级、县级奖项。&lt;/p&gt;
 </summary>
         
       
